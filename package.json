@@ -1,0 +1,20 @@
+{
+  "name": "Alex-SVM",
+  "version": "0.1.0",
+  "description": "Alex-SVM",
+  "main": "hello-world-svm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "SVM"
+  ],
+  "author": "michal",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "libsvm-js": "^0.2.1"
+  }
+}
